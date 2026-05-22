@@ -1148,9 +1148,9 @@ url = "https://github.com/connorlay/tree-sitter-surface"
 maintainers = ["@connorlay"]
 
 [svelte]
-url = "https://github.com/tree-sitter-grammars/tree-sitter-svelte"
-maintainers = ["@amaanq"]
-requires = ["html_tags"]
+url = "https://github.com/themixednuts/tree-sitter-htmlx"
+location = "crates/tree-sitter-svelte"
+maintainers = ["@themixednuts"]
 
 [sway]
 url = "https://github.com/FuelLabs/tree-sitter-sway"
